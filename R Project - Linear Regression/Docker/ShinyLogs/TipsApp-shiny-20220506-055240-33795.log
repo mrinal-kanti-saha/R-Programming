@@ -1,0 +1,5 @@
+su: ignoring --preserve-environment, it's mutually exclusive with --login
+Error in library(caret) : there is no package called 'caret'
+Calls: runApp ... sourceUTF8 -> eval -> eval -> ..stacktraceon.. -> library
+Execution halted
+

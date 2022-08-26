@@ -1,0 +1,7 @@
+su: ignoring --preserve-environment, it's mutually exclusive with --login
+Loading required package: ggplot2
+Loading required package: lattice
+
+Listening on http://127.0.0.1:34579
+Terminated
+
